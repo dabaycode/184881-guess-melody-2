@@ -1,6 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import WelcomeScreen from './componetns/welcome-screen/welcome-screen.jsx';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import WelcomeScreen from 'Components/welcome-screen/welcome-screen';
 
 const App = () => (
   <WelcomeScreen/>
